@@ -6,7 +6,6 @@ django-templated-e-mail==2.2.0
 Flask==0.8
 Jinja2==2.6
 Werkzeug==0.8.3
-certifi==0.0.8
 certifi==2018.1.18
 chardet==1.0.1
 chardet==3.4.0
